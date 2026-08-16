@@ -71,6 +71,6 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=nitin-c1&icon=2&color=1" />
+<img src="https://komarev.com/ghpvc/?username=nitin-c1&icon=2&color=blue" />
 
 </div>
