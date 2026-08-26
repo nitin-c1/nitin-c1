@@ -15,6 +15,12 @@ $ whoami
 
 -----------------------------------------------------------
 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif"
+     min-width="300px"
+     max-width="200px"
+     width="250px"
+     align="right">
+
 ## 👨🏻‍💻 About Me
 
 🎓 3rd-year **B.Tech Computer Engineering** student at **R.C. Patel Institute of Technology, Shirpur** <br>
