@@ -112,15 +112,15 @@ AI-based image classification system designed to identify and categorize waste f
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin-c1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin-c1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitin-c1&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nitin-c1&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-c1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-c1&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 </details>
