@@ -10,7 +10,7 @@ $ whoami
   <a href="https://github.com/nitin-c1">GitHub</a> -
   <a href="https://linkedin.com/in/nitin-c1">LinkedIn</a> -
   <a href="https://x.com/nitin_c1">X</a> -
-  <a href="mailto:chaudharinitin2006@gmail.com">Email</a>
+  <a href="mailto:tsgnitin3@gmail.com">Email</a>
 </p>
 
 -----------------------------------------------------------
@@ -29,7 +29,7 @@ $ whoami
 👯 Looking to collaborate on **Web Development & Open Source Projects** <br>
 🤝 Looking for help with **DSA & Open Source** <br>
 🚀 Interested in **Full-Stack Development, AI/ML, Hackathons & Open Source** <br>
-📫 How to reach me: **[Email](mailto:chaudharinitin2006@gmail.com)** <br>
+📫 How to reach me: **[Email](mailto:tsgnitin3@gmail.com)** <br>
 
 ---
 
@@ -281,7 +281,7 @@ I believe the best way to learn technology is by building real projects and solv
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="mailto:chaudharinitin2006@gmail.com">
+<a href="mailto:tsgnitin3@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
