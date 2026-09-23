@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Nitin+Chaudhari;DEVLOPMENT;CODING)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nitin-c1/nitin-c1/main/assets/ReadmeGIF.gif"
+  <img src="https://raw.githubusercontent.com/nitin-c1/nitin-c1/main/assets/MyGIF.gif"
        height="200"
        alt="Nitin's animation">
 </p>
