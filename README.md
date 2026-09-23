@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nitin-c1/nitin-c1/main/assets/MyGIF.gif"
        height="200"
-       width="200"
+       width="900"
        alt="Nitin's animation">
 </p>
 
