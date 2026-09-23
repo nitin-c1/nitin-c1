@@ -2,8 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nitin-c1/nitin-c1/main/assets/ReadmeGIF.gif"
-       width="800"
-       height="250"
+       height="200"
        alt="Nitin's animation">
 </p>
 
