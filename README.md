@@ -17,7 +17,9 @@
 
 -----------------------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif"
+     min-width="300px"
+     max-width="200px"
      width="250px"
      align="right">
 
