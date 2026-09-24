@@ -17,7 +17,7 @@
 
 -----------------------------------------------------------
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif"
      width="250px"
      align="right">
 
