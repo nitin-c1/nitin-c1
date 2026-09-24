@@ -113,27 +113,20 @@ AI-based image classification system designed to identify and categorize waste f
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nitin-c1&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Nitin's GitHub Stats"
-    width="88%"
-  />
-</p>
+## 📊 GitHub Stats:   
+    
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-c1&theme=github-dark&hide_border=true"
-    alt="Nitin's GitHub Streak"
-  />
-</p>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premkolte&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=premkolte&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premkolte&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premkolte&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premkolte&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=premkolte&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=premkolte&theme=radical">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-c1&layout=compact&theme=github_dark&hide_border=true"
-    alt="Nitin's Top Languages"
-  />
-</p>
+</div><br>   
+
 
 </details>
 <br>
