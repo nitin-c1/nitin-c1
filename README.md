@@ -113,20 +113,25 @@ AI-based image classification system designed to identify and categorize waste f
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
 
-## 📊 GitHub Stats:   
-    
+## 📊 GitHub Stats:
+
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=premkolte&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=premkolte&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=premkolte&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=premkolte&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=premkolte&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=premkolte&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=premkolte&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitin-c1&theme=radical">
 
-</div><br>   
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitin-c1&theme=radical">
 
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitin-c1&theme=radical">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitin-c1&theme=radical">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nitin-c1&theme=radical&utcOffset=5.5">
+
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=nitin-c1&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-c1&theme=radical">
+
+</div>
 
 </details>
 <br>
