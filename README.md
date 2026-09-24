@@ -133,7 +133,9 @@ AI-based image classification system designed to identify and categorize waste f
 
 </div>
 
-</details><br>
+</details>
+-----------------------------------------------------------
+
 
 <details>
 <summary><b>📚 Currently Learning</b></summary>
